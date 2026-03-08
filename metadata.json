@@ -1,0 +1,5 @@
+{
+  "name": "Campus Chat",
+  "description": "A campus chatroom application with posts, group chats, private chats, friend discovery, and profile management.",
+  "requestFramePermissions": []
+}
